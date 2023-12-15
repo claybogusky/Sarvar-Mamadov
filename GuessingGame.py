@@ -1,5 +1,5 @@
 import random
-
+# Generate a random number
 num = random.randint(1, 10)
 guess = None
 
